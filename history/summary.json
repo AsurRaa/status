@@ -22,17 +22,17 @@
     "url": "https://asurraa.com",
     "icon": "https://favicons.githubusercontent.com/asurraa.com",
     "slug": "asur-raa",
-    "status": "up",
-    "uptime": "72.64%",
-    "uptimeDay": "72.64%",
-    "uptimeWeek": "72.64%",
-    "uptimeMonth": "72.64%",
-    "uptimeYear": "72.64%",
-    "time": 787,
-    "timeDay": 787,
-    "timeWeek": 787,
-    "timeMonth": 787,
-    "timeYear": 787,
+    "status": "down",
+    "uptime": "73.36%",
+    "uptimeDay": "73.36%",
+    "uptimeWeek": "73.36%",
+    "uptimeMonth": "73.36%",
+    "uptimeYear": "73.36%",
+    "time": 777,
+    "timeDay": 777,
+    "timeWeek": 777,
+    "timeMonth": 777,
+    "timeYear": 777,
     "dailyMinutesDown": {
       "2021-01-12": 26
     }
@@ -43,18 +43,18 @@
     "icon": "https://favicons.githubusercontent.com/thakvika-api-dev.asurraa.com",
     "slug": "thakvika-api",
     "status": "down",
-    "uptime": "0.06%",
-    "uptimeDay": "0.06%",
-    "uptimeWeek": "0.06%",
-    "uptimeMonth": "0.06%",
-    "uptimeYear": "0.06%",
+    "uptime": "0.04%",
+    "uptimeDay": "0.04%",
+    "uptimeWeek": "0.04%",
+    "uptimeMonth": "0.04%",
+    "uptimeYear": "0.04%",
     "time": 825,
     "timeDay": 825,
     "timeWeek": 825,
     "timeMonth": 825,
     "timeYear": 825,
     "dailyMinutesDown": {
-      "2021-01-12": 96
+      "2021-01-12": 99
     }
   }
 ]
