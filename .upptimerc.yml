@@ -4,19 +4,12 @@ repo: status # Your GitHub repository name
 
 # Add your sites here
 sites:
-  - name: Google
-    url: https://www.google.com
-  - name: Wikipedia
-    url: https://en.wikipedia.org
-  - name: Hacker News
-    url: https://news.ycombinator.com
-  - name: Broken Site
-    url: https://thissitedoesnotexist.com
-  - name: Test for HEAD
-    method: HEAD
-    url: https://www.google.com
-  - name: Secret Site
-    url: $SECRET_SITE
+  - name: SAI WEBSITE
+    url: https://saicambodianartist.com
+  - name: AsurRaa
+    url: https://asurraa.com
+  - name: THAKVIKA API
+    url: https://thakvika-api-dev.asurraa.com
 
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
@@ -32,6 +25,5 @@ status-website:
       href: /
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
-
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
