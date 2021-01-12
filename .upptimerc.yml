@@ -1,43 +1,37 @@
-owner: AsurRaa
-repo: status
+# Change these first
+owner: upptime # Your GitHub username
+repo: upptime # Your GitHub repository name
 
+# Add your sites here
 sites:
-  - name: Sai Cambodian Artist
-    url: https://saicambodianartist.com/
-    maxResponseTime: 500
-
-  # - name: API
-  #   url: https://x.nest.land/api/package/std/0.75.0
-  #   maxResponseTime: 500
-
-  # - name: CDN
-  #   url: https://x.nest.land/std@0.75.0/flags/mod.ts
-  #   maxResponseTime: 1500
-
-  # - name: Arweave
-  #   url: https://y2dkomn4abqiffiuvhrfhuqynbu4det55c3uipi4gyvvntorwfoa.arweave.net/xoanMbwAYIKVFKniU9IYaGnBkn3ot0Q9HDYrVs3RsVw/flags/mod.ts
-  #   maxResponseTime: 500
-
-# assignees: ["nestdotland/core"]
-
-# notifications:
-#   - type: discord
+  - name: Google
+    url: https://www.google.com
+  - name: Wikipedia
+    url: https://en.wikipedia.org
+  - name: Hacker News
+    url: https://news.ycombinator.com
+  - name: Broken Site
+    url: https://thissitedoesnotexist.com
+  - name: Test for HEAD
+    method: HEAD
+    url: https://www.google.com
+  - name: Secret Site
+    url: $SECRET_SITE
 
 status-website:
-  baseUrl: /repo
-  name: AsurRaa Status Page
-  # cname: status.asurraa.com
-  # logoUrl: https://avatars3.githubusercontent.com/u/62465909?s=400&u=b543f5c67f4bafb214e9064ac95de21e35daf2d9&v=4
-  # name: AsurRaa Status Page
+  # Add your custom domain below, or remove the next line if you don't have a domain
+  cname: demo.upptime.js.org
+  # Uncomment the following line if you don't have a custom domain and add your repo name
+  # baseUrl: /upptime
+  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
+  name: Upptime
+  introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
+  introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
   navbar:
+    - title: Status
+      href: /
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
 
-workflowSchedule:
-  uptime: "*/5 * * * *"
-  graphs: "0 * * * *"
-  responseTime: "0 * * * *"
-  summary: "0 * * * *"
-  updateTemplate: "0 0 * * *"
-  staticSite: "0 0 * * *"
-  updates: "0 0 * * *"
+# Upptime also supports notifications, assigning issues, and more
+# See https://upptime.js.org/docs/configuration
