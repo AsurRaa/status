@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1235,
-    "timeDay": 1235,
-    "timeWeek": 1235,
-    "timeMonth": 1235,
-    "timeYear": 1235,
+    "time": 1239,
+    "timeDay": 1239,
+    "timeWeek": 1239,
+    "timeMonth": 1239,
+    "timeYear": 1239,
     "dailyMinutesDown": {}
   },
   {
@@ -23,18 +23,18 @@
     "icon": "https://favicons.githubusercontent.com/asurraa.com",
     "slug": "asur-raa",
     "status": "down",
-    "uptime": "11.34%",
-    "uptimeDay": "11.34%",
-    "uptimeWeek": "11.34%",
-    "uptimeMonth": "11.34%",
-    "uptimeYear": "11.34%",
-    "time": 830,
-    "timeDay": 830,
-    "timeWeek": 830,
-    "timeMonth": 830,
-    "timeYear": 830,
+    "uptime": "10.18%",
+    "uptimeDay": "10.18%",
+    "uptimeWeek": "10.18%",
+    "uptimeMonth": "10.18%",
+    "uptimeYear": "10.18%",
+    "time": 827,
+    "timeDay": 827,
+    "timeWeek": 827,
+    "timeMonth": 827,
+    "timeYear": 827,
     "dailyMinutesDown": {
-      "2021-01-13": 149,
+      "2021-01-13": 223,
       "2021-01-12": 422
     }
   },
@@ -55,7 +55,7 @@
     "timeMonth": 783,
     "timeYear": 783,
     "dailyMinutesDown": {
-      "2021-01-13": 149,
+      "2021-01-13": 223,
       "2021-01-12": 495
     }
   }
