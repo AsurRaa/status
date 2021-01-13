@@ -23,18 +23,18 @@
     "icon": "https://favicons.githubusercontent.com/asurraa.com",
     "slug": "asurraa-website",
     "status": "down",
-    "uptime": "12.81%",
-    "uptimeDay": "12.81%",
-    "uptimeWeek": "12.81%",
-    "uptimeMonth": "12.81%",
-    "uptimeYear": "12.81%",
+    "uptime": "0.09%",
+    "uptimeDay": "0.09%",
+    "uptimeWeek": "0.09%",
+    "uptimeMonth": "0.09%",
+    "uptimeYear": "0.09%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2021-01-13": 0
+      "2021-01-13": 30
     }
   },
   {
@@ -43,11 +43,11 @@
     "icon": "https://favicons.githubusercontent.com/thakvika-api-dev.asurraa.com",
     "slug": "thakvika-api",
     "status": "up",
-    "uptime": "0.34%",
-    "uptimeDay": "0.34%",
-    "uptimeWeek": "0.34%",
-    "uptimeMonth": "0.34%",
-    "uptimeYear": "0.34%",
+    "uptime": "2.98%",
+    "uptimeDay": "2.98%",
+    "uptimeWeek": "2.98%",
+    "uptimeMonth": "2.98%",
+    "uptimeYear": "2.98%",
     "time": 892,
     "timeDay": 892,
     "timeWeek": 892,
@@ -64,18 +64,18 @@
     "icon": "https://favicons.githubusercontent.com/thakvika.asurraa.com",
     "slug": "thakvika-website",
     "status": "down",
-    "uptime": "13.47%",
-    "uptimeDay": "13.47%",
-    "uptimeWeek": "13.47%",
-    "uptimeMonth": "13.47%",
-    "uptimeYear": "13.47%",
+    "uptime": "0.13%",
+    "uptimeDay": "0.13%",
+    "uptimeWeek": "0.13%",
+    "uptimeMonth": "0.13%",
+    "uptimeYear": "0.13%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2021-01-13": 0
+      "2021-01-13": 30
     }
   }
 ]
