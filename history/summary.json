@@ -1,6 +1,6 @@
 [
   {
-    "name": "SAI WEBSITE",
+    "name": "sai-website",
     "url": "https://saicambodianartist.com",
     "icon": "https://favicons.githubusercontent.com/saicambodianartist.com",
     "slug": "sai-website",
@@ -18,45 +18,64 @@
     "dailyMinutesDown": {}
   },
   {
-    "name": "AsurRaa",
+    "name": "asurraa-website",
     "url": "https://asurraa.com",
     "icon": "https://favicons.githubusercontent.com/asurraa.com",
-    "slug": "asur-raa",
-    "status": "up",
-    "uptime": "33.21%",
-    "uptimeDay": "33.21%",
-    "uptimeWeek": "33.21%",
-    "uptimeMonth": "33.21%",
-    "uptimeYear": "33.21%",
-    "time": 859,
-    "timeDay": 859,
-    "timeWeek": 859,
-    "timeMonth": 859,
-    "timeYear": 859,
+    "slug": "asurraa-website",
+    "status": "down",
+    "uptime": "17.13%",
+    "uptimeDay": "17.13%",
+    "uptimeWeek": "17.13%",
+    "uptimeMonth": "17.13%",
+    "uptimeYear": "17.13%",
+    "time": 0,
+    "timeDay": 0,
+    "timeWeek": 0,
+    "timeMonth": 0,
+    "timeYear": 0,
     "dailyMinutesDown": {
-      "2021-01-13": 310,
-      "2021-01-12": 422
+      "2021-01-13": 0
     }
   },
   {
-    "name": "THAKVIKA API",
+    "name": "thakvika-api",
     "url": "https://thakvika-api-dev.asurraa.com",
     "icon": "https://favicons.githubusercontent.com/thakvika-api-dev.asurraa.com",
     "slug": "thakvika-api",
     "status": "up",
-    "uptime": "0.01%",
-    "uptimeDay": "0.01%",
-    "uptimeWeek": "0.01%",
-    "uptimeMonth": "0.01%",
-    "uptimeYear": "0.01%",
-    "time": 897,
-    "timeDay": 897,
-    "timeWeek": 897,
-    "timeMonth": 897,
-    "timeYear": 897,
+    "uptime": "0.33%",
+    "uptimeDay": "0.33%",
+    "uptimeWeek": "0.33%",
+    "uptimeMonth": "0.33%",
+    "uptimeYear": "0.33%",
+    "time": 892,
+    "timeDay": 892,
+    "timeWeek": 892,
+    "timeMonth": 892,
+    "timeYear": 892,
     "dailyMinutesDown": {
       "2021-01-13": 601,
       "2021-01-12": 495
+    }
+  },
+  {
+    "name": "thakvika-website",
+    "url": "https://thakvika.asurraa.com",
+    "icon": "https://favicons.githubusercontent.com/thakvika.asurraa.com",
+    "slug": "thakvika-website",
+    "status": "down",
+    "uptime": "21.77%",
+    "uptimeDay": "21.77%",
+    "uptimeWeek": "21.77%",
+    "uptimeMonth": "21.77%",
+    "uptimeYear": "21.77%",
+    "time": 0,
+    "timeDay": 0,
+    "timeWeek": 0,
+    "timeMonth": 0,
+    "timeYear": 0,
+    "dailyMinutesDown": {
+      "2021-01-13": 0
     }
   }
 ]
