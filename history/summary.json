@@ -23,11 +23,11 @@
     "icon": "https://favicons.githubusercontent.com/asurraa.com",
     "slug": "asur-raa",
     "status": "up",
-    "uptime": "9.08%",
-    "uptimeDay": "9.08%",
-    "uptimeWeek": "9.08%",
-    "uptimeMonth": "9.08%",
-    "uptimeYear": "9.08%",
+    "uptime": "11.73%",
+    "uptimeDay": "11.73%",
+    "uptimeWeek": "11.73%",
+    "uptimeMonth": "11.73%",
+    "uptimeYear": "11.73%",
     "time": 853,
     "timeDay": 853,
     "timeWeek": 853,
@@ -55,7 +55,7 @@
     "timeMonth": 795,
     "timeYear": 795,
     "dailyMinutesDown": {
-      "2021-01-13": 310,
+      "2021-01-13": 334,
       "2021-01-12": 495
     }
   }
