@@ -4,12 +4,14 @@ repo: status # Your GitHub repository name
 
 # Add your sites here
 sites:
-  - name: SAI WEBSITE
+  - name: sai-website
     url: https://saicambodianartist.com
-  - name: AsurRaa
+  - name: asurraa-website
     url: https://asurraa.com
-  - name: THAKVIKA API
+  - name: thakvika-api
     url: https://thakvika-api-dev.asurraa.com
+  - name: thakvika-website
+    url: https://thakvika.asurraa.com
 
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
