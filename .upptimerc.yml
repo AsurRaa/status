@@ -12,6 +12,8 @@ sites:
     url: https://thakvika-api-dev.asurraa.com
   - name: thakvika-website
     url: https://thakvika.asurraa.com
+  - name: lv - website
+    url: https://lauvann.info/
 
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
