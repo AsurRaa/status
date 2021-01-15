@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1262,
-    "timeDay": 1268,
-    "timeWeek": 1262,
-    "timeMonth": 1262,
-    "timeYear": 1262,
+    "time": 1260,
+    "timeDay": 1267,
+    "timeWeek": 1260,
+    "timeMonth": 1260,
+    "timeYear": 1260,
     "dailyMinutesDown": {}
   },
   {
@@ -23,16 +23,16 @@
     "icon": "https://favicons.githubusercontent.com/asurraa.com",
     "slug": "asurraa-website",
     "status": "up",
-    "uptime": "94.70%",
+    "uptime": "94.80%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "94.70%",
-    "uptimeMonth": "94.70%",
-    "uptimeYear": "94.70%",
-    "time": 876,
-    "timeDay": 819,
-    "timeWeek": 876,
-    "timeMonth": 876,
-    "timeYear": 876,
+    "uptimeWeek": "94.80%",
+    "uptimeMonth": "94.80%",
+    "uptimeYear": "94.80%",
+    "time": 873,
+    "timeDay": 817,
+    "timeWeek": 873,
+    "timeMonth": 873,
+    "timeYear": 873,
     "dailyMinutesDown": {
       "2021-01-13": 192
     }
@@ -43,13 +43,13 @@
     "icon": "https://favicons.githubusercontent.com/thakvika-api-dev.asurraa.com",
     "slug": "thakvika-api",
     "status": "up",
-    "uptime": "73.87%",
+    "uptime": "74.24%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "73.87%",
-    "uptimeMonth": "73.87%",
-    "uptimeYear": "73.87%",
+    "uptimeWeek": "74.24%",
+    "uptimeMonth": "74.24%",
+    "uptimeYear": "74.24%",
     "time": 879,
-    "timeDay": 887,
+    "timeDay": 888,
     "timeWeek": 879,
     "timeMonth": 879,
     "timeYear": 879,
@@ -75,7 +75,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2021-01-15": 1342,
+      "2021-01-15": 1411,
       "2021-01-14": 1440,
       "2021-01-13": 836
     }
@@ -91,13 +91,13 @@
     "uptimeWeek": "0.01%",
     "uptimeMonth": "0.01%",
     "uptimeYear": "0.01%",
-    "time": 861,
-    "timeDay": 861,
-    "timeWeek": 861,
-    "timeMonth": 861,
-    "timeYear": 861,
+    "time": 863,
+    "timeDay": 863,
+    "timeWeek": 863,
+    "timeMonth": 863,
+    "timeYear": 863,
     "dailyMinutesDown": {
-      "2021-01-15": 694
+      "2021-01-15": 763
     }
   }
 ]
