@@ -11,7 +11,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1265,
-    "timeDay": 1253,
+    "timeDay": 1255,
     "timeWeek": 1265,
     "timeMonth": 1265,
     "timeYear": 1265,
@@ -23,16 +23,16 @@
     "icon": "https://favicons.githubusercontent.com/asurraa.com",
     "slug": "asurraa-website",
     "status": "up",
-    "uptime": "93.41%",
+    "uptime": "93.44%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "93.41%",
-    "uptimeMonth": "93.41%",
-    "uptimeYear": "93.41%",
-    "time": 896,
-    "timeDay": 874,
-    "timeWeek": 896,
-    "timeMonth": 896,
-    "timeYear": 896,
+    "uptimeWeek": "93.44%",
+    "uptimeMonth": "93.44%",
+    "uptimeYear": "93.44%",
+    "time": 890,
+    "timeDay": 863,
+    "timeWeek": 890,
+    "timeMonth": 890,
+    "timeYear": 890,
     "dailyMinutesDown": {
       "2021-01-13": 192
     }
@@ -43,16 +43,16 @@
     "icon": "https://favicons.githubusercontent.com/thakvika-api-dev.asurraa.com",
     "slug": "thakvika-api",
     "status": "up",
-    "uptime": "69.24%",
+    "uptime": "69.36%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "69.24%",
-    "uptimeMonth": "69.24%",
-    "uptimeYear": "69.24%",
-    "time": 871,
-    "timeDay": 855,
-    "timeWeek": 871,
-    "timeMonth": 871,
-    "timeYear": 871,
+    "uptimeWeek": "69.36%",
+    "uptimeMonth": "69.36%",
+    "uptimeYear": "69.36%",
+    "time": 873,
+    "timeDay": 864,
+    "timeWeek": 873,
+    "timeMonth": 873,
+    "timeYear": 873,
     "dailyMinutesDown": {
       "2021-01-13": 738,
       "2021-01-12": 495
@@ -75,9 +75,29 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2021-01-15": 633,
+      "2021-01-15": 648,
       "2021-01-14": 1440,
       "2021-01-13": 836
+    }
+  },
+  {
+    "name": "lv - website",
+    "url": "https://lauvann.info/",
+    "icon": "https://favicons.githubusercontent.com/lauvann.info",
+    "slug": "lv-website",
+    "status": "down",
+    "uptime": "31.86%",
+    "uptimeDay": "31.86%",
+    "uptimeWeek": "31.86%",
+    "uptimeMonth": "31.86%",
+    "uptimeYear": "31.86%",
+    "time": 821,
+    "timeDay": 821,
+    "timeWeek": 821,
+    "timeMonth": 821,
+    "timeYear": 821,
+    "dailyMinutesDown": {
+      "2021-01-15": 0
     }
   }
 ]
