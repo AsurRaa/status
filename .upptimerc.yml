@@ -16,9 +16,9 @@ sites:
     url: https://lauvann.info/
 
 status-website:
-  # cname: status.asurraa.com
-  logoUrl: https://nest.land/images/nest.land/favicon_light.svg
-  name: Nest Status Page
+  cname: status.asurraa.com
+  logoUrl: https://avatars3.githubusercontent.com/u/62465909?s=400&u=b543f5c67f4bafb214e9064ac95de21e35daf2d9&v=4
+  name: AsurRaa Status Page
   navbar:
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
