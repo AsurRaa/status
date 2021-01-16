@@ -16,7 +16,7 @@ sites:
     url: https://lauvann.info/
 
 status-website:
-  cname: status.asurraa.com
+  # cname: status.asurraa.com
   logoUrl: https://nest.land/images/nest.land/favicon_light.svg
   name: Nest Status Page
   navbar:
