@@ -14,6 +14,12 @@ sites:
     url: https://thakvika.asurraa.com
   - name: lv - website
     url: https://lauvann.info/
+  - name: gogym-api
+    url: http://gogym-api.asurraa.com/
+  - name: gogym-ui
+    url: http://gogym-ui.asurraa.com/
+  - name: akssar
+    url: https://akssar.asurraa.com/
 
 status-website:
   cname: status.asurraa.com
