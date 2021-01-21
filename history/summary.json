@@ -5,18 +5,18 @@
     "icon": "https://favicons.githubusercontent.com/saicambodianartist.com",
     "slug": "sai-website",
     "status": "down",
-    "uptime": "99.02%",
-    "uptimeDay": "99.83%",
-    "uptimeWeek": "98.81%",
-    "uptimeMonth": "99.02%",
-    "uptimeYear": "99.02%",
+    "uptime": "98.93%",
+    "uptimeDay": "99.04%",
+    "uptimeWeek": "98.70%",
+    "uptimeMonth": "98.93%",
+    "uptimeYear": "98.93%",
     "time": 2082,
     "timeDay": 1735,
-    "timeWeek": 2242,
+    "timeWeek": 2248,
     "timeMonth": 2082,
     "timeYear": 2082,
     "dailyMinutesDown": {
-      "2021-01-21": 2,
+      "2021-01-21": 14,
       "2021-01-20": 53,
       "2021-01-19": 64
     }
@@ -34,7 +34,7 @@
     "uptimeYear": "97.26%",
     "time": 1113,
     "timeDay": 994,
-    "timeWeek": 1125,
+    "timeWeek": 1127,
     "timeMonth": 1113,
     "timeYear": 1113,
     "dailyMinutesDown": {
@@ -49,11 +49,11 @@
     "icon": "https://favicons.githubusercontent.com/thakvika-api-dev.asurraa.com",
     "slug": "thakvika-api",
     "status": "up",
-    "uptime": "89.04%",
+    "uptime": "89.05%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "98.92%",
-    "uptimeMonth": "89.04%",
-    "uptimeYear": "89.04%",
+    "uptimeMonth": "89.05%",
+    "uptimeYear": "89.05%",
     "time": 919,
     "timeDay": 938,
     "timeWeek": 928,
@@ -83,7 +83,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2021-01-21": 222,
+      "2021-01-21": 233,
       "2021-01-20": 1440,
       "2021-01-19": 1440,
       "2021-01-18": 1440,
@@ -100,18 +100,18 @@
     "icon": "https://favicons.githubusercontent.com/lauvann.info",
     "slug": "lv-website",
     "status": "down",
-    "uptime": "84.77%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "84.77%",
-    "uptimeMonth": "84.77%",
-    "uptimeYear": "84.77%",
+    "uptime": "84.65%",
+    "uptimeDay": "99.18%",
+    "uptimeWeek": "84.65%",
+    "uptimeMonth": "84.65%",
+    "uptimeYear": "84.65%",
     "time": 1981,
     "timeDay": 2326,
     "timeWeek": 1981,
     "timeMonth": 1981,
     "timeYear": 1981,
     "dailyMinutesDown": {
-      "2021-01-21": 0,
+      "2021-01-21": 12,
       "2021-01-20": 49,
       "2021-01-19": 56,
       "2021-01-16": 353,
@@ -135,7 +135,7 @@
     "timeMonth": 1394,
     "timeYear": 1394,
     "dailyMinutesDown": {
-      "2021-01-21": 222,
+      "2021-01-21": 233,
       "2021-01-20": 861
     }
   },
@@ -156,7 +156,7 @@
     "timeMonth": 1227,
     "timeYear": 1227,
     "dailyMinutesDown": {
-      "2021-01-21": 222,
+      "2021-01-21": 233,
       "2021-01-20": 861
     }
   },
@@ -177,7 +177,7 @@
     "timeMonth": 739,
     "timeYear": 739,
     "dailyMinutesDown": {
-      "2021-01-21": 222,
+      "2021-01-21": 233,
       "2021-01-20": 861
     }
   }
