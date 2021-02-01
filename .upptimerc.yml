@@ -20,6 +20,8 @@ sites:
     url: http://gogym-ui.asurraa.com/
   - name: akssar
     url: https://akssar.asurraa.com/
+  - name: 1ASEM
+    url: https://1aseam.asurraa.com/
 
 status-website:
   cname: status.asurraa.com
