@@ -15,9 +15,9 @@ sites:
   - name: lv - website
     url: https://lauvann.info/
   - name: gogym-api
-    url: http://gogym-api.asurraa.com/
+    url: http://gogym-api-dev.asurraa.com/
   - name: gogym-ui
-    url: http://gogym-ui.asurraa.com/
+    url: http://gogym-pos-dev.asurraa.com/
   - name: akssar
     url: https://akssar.asurraa.com/
   - name: 1ASEM
