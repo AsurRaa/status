@@ -1,42 +1,42 @@
-# Change these first
-owner: AsurRaa # Your GitHub username
-repo: status # Your GitHub repository name
+# # Change these first
+# owner: AsurRaa # Your GitHub username
+# repo: status # Your GitHub repository name
 
-# Add your sites here
-sites:
-  - name: sai-website
-    url: https://saicambodianartist.com
-  - name: asurraa-website
-    url: https://asurraa.com
-  - name: thakvika-api
-    url: https://thakvika-api-dev.asurraa.com
-  - name: thakvika-website
-    url: https://thakvika.asurraa.com
-  - name: lv - website
-    url: https://lauvann.info/
-  - name: gogym-api
-    url: http://gogym-api-dev.asurraa.com/
-  - name: gogym-ui
-    url: http://gogym-pos-dev.asurraa.com/
-  - name: akssar
-    url: https://akssar.asurraa.com/
-  - name: 1ASEM
-    url: https://1aseam.asurraa.com/
+# # Add your sites here
+# sites:
+#   - name: sai-website
+#     url: https://saicambodianartist.com
+#   - name: asurraa-website
+#     url: https://asurraa.com
+#   - name: thakvika-api
+#     url: https://thakvika-api-dev.asurraa.com
+#   - name: thakvika-website
+#     url: https://thakvika.asurraa.com
+#   - name: lv - website
+#     url: https://lauvann.info/
+#   - name: gogym-api
+#     url: http://gogym-api-dev.asurraa.com/
+#   - name: gogym-ui
+#     url: http://gogym-pos-dev.asurraa.com/
+#   - name: akssar
+#     url: https://akssar.asurraa.com/
+#   - name: 1ASEM
+#     url: https://1aseam.asurraa.com/
 
-status-website:
-  cname: status.asurraa.com
-  logoUrl: https://avatars3.githubusercontent.com/u/62465909?s=400&u=b543f5c67f4bafb214e9064ac95de21e35daf2d9&v=4
-  name: AsurRaa Status Page
-  navbar:
-    - title: GitHub
-      href: https://github.com/$OWNER/$REPO
-# Upptime also supports notifications, assigning issues, and more
-# See https://upptime.js.org/docs/configuration
-workflowSchedule:
-  uptime: "*/5 * * * *"
-  graphs: "0 * * * *"
-  responseTime: "0 * * * *"
-  summary: "0 * * * *"
-  updateTemplate: "0 0 * * *"
-  staticSite: "0 0 * * *"
-  updates: "0 0 * * *"
+# status-website:
+#   cname: status.asurraa.com
+#   logoUrl: https://avatars3.githubusercontent.com/u/62465909?s=400&u=b543f5c67f4bafb214e9064ac95de21e35daf2d9&v=4
+#   name: AsurRaa Status Page
+#   navbar:
+#     - title: GitHub
+#       href: https://github.com/$OWNER/$REPO
+# # Upptime also supports notifications, assigning issues, and more
+# # See https://upptime.js.org/docs/configuration
+# workflowSchedule:
+#   uptime: "*/5 * * * *"
+#   graphs: "0 * * * *"
+#   responseTime: "0 * * * *"
+#   summary: "0 * * * *"
+#   updateTemplate: "0 0 * * *"
+#   staticSite: "0 0 * * *"
+#   updates: "0 0 * * *"
