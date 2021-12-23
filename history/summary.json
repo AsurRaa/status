@@ -138,7 +138,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2021-12-23": 240,
+      "2021-12-23": 285,
       "2021-12-22": 1440,
       "2021-12-21": 1440,
       "2021-12-20": 1440,
@@ -536,7 +536,7 @@
     "url": "http://gogym-api-dev.asurraa.com/",
     "icon": "https://favicons.githubusercontent.com/gogym-api-dev.asurraa.com",
     "slug": "gogym-api",
-    "status": "down",
+    "status": "up",
     "uptime": "97.38%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -544,7 +544,7 @@
     "uptimeYear": "97.38%",
     "time": 1591,
     "timeDay": 1067,
-    "timeWeek": 1149,
+    "timeWeek": 1147,
     "timeMonth": 1127,
     "timeYear": 1591,
     "dailyMinutesDown": {
@@ -645,7 +645,7 @@
     "timeMonth": 0,
     "timeYear": 790,
     "dailyMinutesDown": {
-      "2021-12-23": 242,
+      "2021-12-23": 287,
       "2021-12-22": 1440,
       "2021-12-21": 1440,
       "2021-12-20": 1440,
