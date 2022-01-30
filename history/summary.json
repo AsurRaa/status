@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "98.81%",
-    "time": 1026,
-    "timeDay": 305,
-    "timeWeek": 217,
-    "timeMonth": 350,
-    "timeYear": 975,
+    "time": 1025,
+    "timeDay": 292,
+    "timeWeek": 233,
+    "timeMonth": 349,
+    "timeYear": 974,
     "dailyMinutesDown": {
       "2021-03-03": 120,
       "2021-03-01": 21,
@@ -42,10 +42,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.33%",
-    "time": 931,
-    "timeDay": 134,
-    "timeWeek": 157,
-    "timeMonth": 832,
+    "time": 925,
+    "timeDay": 106,
+    "timeWeek": 151,
+    "timeMonth": 816,
     "timeYear": 928,
     "dailyMinutesDown": {
       "2021-03-03": 120,
@@ -65,15 +65,15 @@
     "icon": "https://favicons.githubusercontent.com/thakvika-api-dev.asurraa.com",
     "slug": "thakvika-api",
     "status": "down",
-    "uptime": "93.92%",
+    "uptime": "93.93%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "95.02%",
+    "uptimeYear": "95.21%",
     "time": 885,
-    "timeDay": 702,
-    "timeWeek": 682,
-    "timeMonth": 713,
+    "timeDay": 667,
+    "timeWeek": 681,
+    "timeMonth": 712,
     "timeYear": 886,
     "dailyMinutesDown": {
       "2021-03-03": 120,
@@ -99,8 +99,7 @@
       "2021-02-03": 1440,
       "2021-02-02": 1440,
       "2021-02-01": 1440,
-      "2021-01-31": 1440,
-      "2021-01-30": 1440
+      "2021-01-31": 1440
     }
   },
   {
@@ -120,7 +119,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-01-29": 473,
+      "2022-01-30": 23,
+      "2022-01-29": 1440,
       "2022-01-28": 1440,
       "2022-01-27": 1440,
       "2022-01-26": 1440,
@@ -483,8 +483,7 @@
       "2021-02-03": 1440,
       "2021-02-02": 1440,
       "2021-02-01": 1440,
-      "2021-01-31": 1440,
-      "2021-01-30": 1440
+      "2021-01-31": 1440
     }
   },
   {
@@ -493,16 +492,16 @@
     "icon": "https://favicons.githubusercontent.com/lauvann.info",
     "slug": "lv-website",
     "status": "down",
-    "uptime": "95.55%",
+    "uptime": "95.56%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "95.86%",
-    "time": 1064,
+    "uptimeYear": "96.05%",
+    "time": 1063,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 1033,
+    "timeYear": 1035,
     "dailyMinutesDown": {
       "2021-03-03": 120,
       "2021-03-01": 20,
@@ -522,8 +521,7 @@
       "2021-02-03": 1440,
       "2021-02-02": 1440,
       "2021-02-01": 1440,
-      "2021-01-31": 1440,
-      "2021-01-30": 1440
+      "2021-01-31": 1440
     }
   },
   {
@@ -537,9 +535,9 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "98.74%",
-    "time": 1561,
-    "timeDay": 1105,
-    "timeWeek": 1073,
+    "time": 1560,
+    "timeDay": 1081,
+    "timeWeek": 1077,
     "timeMonth": 1167,
     "timeYear": 1571,
     "dailyMinutesDown": {
@@ -566,16 +564,16 @@
     "icon": "https://favicons.githubusercontent.com/gogym-pos-dev.asurraa.com",
     "slug": "gogym-ui",
     "status": "up",
-    "uptime": "94.97%",
+    "uptime": "94.98%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "96.43%",
-    "time": 1366,
-    "timeDay": 1089,
-    "timeWeek": 1068,
-    "timeMonth": 1167,
-    "timeYear": 1370,
+    "time": 1367,
+    "timeDay": 1065,
+    "timeWeek": 1071,
+    "timeMonth": 1163,
+    "timeYear": 1371,
     "dailyMinutesDown": {
       "2021-03-06": 272,
       "2021-03-05": 1440,
@@ -625,7 +623,8 @@
     "timeMonth": 0,
     "timeYear": 790,
     "dailyMinutesDown": {
-      "2022-01-29": 474,
+      "2022-01-30": 25,
+      "2022-01-29": 1440,
       "2022-01-28": 1440,
       "2022-01-27": 1440,
       "2022-01-26": 1440,
@@ -988,8 +987,7 @@
       "2021-02-03": 1440,
       "2021-02-02": 1440,
       "2021-02-01": 1440,
-      "2021-01-31": 1440,
-      "2021-01-30": 1440
+      "2021-01-31": 1440
     }
   },
   {
