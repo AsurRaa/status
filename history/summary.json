@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "98.81%",
-    "time": 962,
-    "timeDay": 231,
-    "timeWeek": 252,
-    "timeMonth": 314,
-    "timeYear": 940,
+    "time": 955,
+    "timeDay": 350,
+    "timeWeek": 278,
+    "timeMonth": 315,
+    "timeYear": 934,
     "dailyMinutesDown": {
       "2021-03-03": 120,
       "2021-03-01": 21,
@@ -27,8 +27,7 @@
       "2021-02-14": 1440,
       "2021-02-13": 1440,
       "2021-02-12": 1440,
-      "2021-02-11": 1268,
-      "2021-02-08": 10
+      "2021-02-11": 1268
     }
   },
   {
@@ -43,10 +42,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.33%",
     "time": 915,
-    "timeDay": 136,
+    "timeDay": 150,
     "timeWeek": 164,
-    "timeMonth": 546,
-    "timeYear": 919,
+    "timeMonth": 531,
+    "timeYear": 918,
     "dailyMinutesDown": {
       "2021-03-03": 120,
       "2021-03-01": 153,
@@ -55,8 +54,7 @@
       "2021-02-24": 707,
       "2021-02-23": 1440,
       "2021-02-22": 816,
-      "2021-02-17": 19,
-      "2021-02-08": 10
+      "2021-02-17": 19
     }
   },
   {
@@ -65,15 +63,15 @@
     "icon": "https://favicons.githubusercontent.com/thakvika-api-dev.asurraa.com",
     "slug": "thakvika-api",
     "status": "down",
-    "uptime": "94.06%",
+    "uptime": "94.07%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "97.54%",
+    "uptimeYear": "97.71%",
     "time": 883,
-    "timeDay": 676,
-    "timeWeek": 683,
-    "timeMonth": 696,
+    "timeDay": 668,
+    "timeWeek": 680,
+    "timeMonth": 694,
     "timeYear": 885,
     "dailyMinutesDown": {
       "2021-03-03": 120,
@@ -90,8 +88,7 @@
       "2021-02-12": 1440,
       "2021-02-11": 1440,
       "2021-02-10": 1440,
-      "2021-02-09": 1440,
-      "2021-02-08": 1440
+      "2021-02-09": 1440
     }
   },
   {
@@ -111,7 +108,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-02-07": 730,
+      "2022-02-08": 175,
+      "2022-02-07": 1440,
       "2022-02-06": 1440,
       "2022-02-05": 1440,
       "2022-02-04": 1440,
@@ -474,8 +472,7 @@
       "2021-02-12": 1440,
       "2021-02-11": 1440,
       "2021-02-10": 1440,
-      "2021-02-09": 1440,
-      "2021-02-08": 1440
+      "2021-02-09": 1440
     }
   },
   {
@@ -484,16 +481,16 @@
     "icon": "https://favicons.githubusercontent.com/lauvann.info",
     "slug": "lv-website",
     "status": "down",
-    "uptime": "95.66%",
+    "uptime": "95.67%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "98.38%",
+    "uptimeYear": "98.55%",
     "time": 1046,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 1069,
+    "timeYear": 1071,
     "dailyMinutesDown": {
       "2021-03-03": 120,
       "2021-03-01": 20,
@@ -504,8 +501,7 @@
       "2021-02-12": 1440,
       "2021-02-11": 1440,
       "2021-02-10": 1440,
-      "2021-02-09": 1440,
-      "2021-02-08": 1440
+      "2021-02-09": 1440
     }
   },
   {
@@ -513,17 +509,17 @@
     "url": "http://gogym-api-dev.asurraa.com/",
     "icon": "https://favicons.githubusercontent.com/gogym-api-dev.asurraa.com",
     "slug": "gogym-api",
-    "status": "up",
-    "uptime": "97.69%",
+    "status": "down",
+    "uptime": "97.70%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "98.76%",
-    "time": 1563,
-    "timeDay": 1052,
-    "timeWeek": 1071,
-    "timeMonth": 1152,
-    "timeYear": 1575,
+    "uptimeYear": "98.77%",
+    "time": 1562,
+    "timeDay": 1034,
+    "timeWeek": 1067,
+    "timeMonth": 1151,
+    "timeYear": 1576,
     "dailyMinutesDown": {
       "2021-03-06": 272,
       "2021-03-05": 1440,
@@ -545,15 +541,15 @@
     "url": "http://gogym-pos-dev.asurraa.com/",
     "icon": "https://favicons.githubusercontent.com/gogym-pos-dev.asurraa.com",
     "slug": "gogym-ui",
-    "status": "up",
-    "uptime": "95.09%",
+    "status": "down",
+    "uptime": "95.10%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "96.51%",
+    "uptimeYear": "96.54%",
     "time": 1368,
-    "timeDay": 1306,
-    "timeWeek": 1109,
+    "timeDay": 1345,
+    "timeWeek": 1112,
     "timeMonth": 1159,
     "timeYear": 1371,
     "dailyMinutesDown": {
@@ -579,8 +575,7 @@
       "2021-02-14": 5,
       "2021-02-13": 23,
       "2021-02-11": 22,
-      "2021-02-10": 61,
-      "2021-02-08": 269
+      "2021-02-10": 61
     }
   },
   {
@@ -600,7 +595,8 @@
     "timeMonth": 0,
     "timeYear": 788,
     "dailyMinutesDown": {
-      "2022-02-07": 731,
+      "2022-02-08": 176,
+      "2022-02-07": 1440,
       "2022-02-06": 1440,
       "2022-02-05": 1440,
       "2022-02-04": 1440,
@@ -963,8 +959,7 @@
       "2021-02-12": 1440,
       "2021-02-11": 1440,
       "2021-02-10": 1440,
-      "2021-02-09": 1440,
-      "2021-02-08": 1440
+      "2021-02-09": 1440
     }
   },
   {
@@ -978,11 +973,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.93%",
-    "time": 2722,
+    "time": 2723,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 2773,
+    "timeYear": 2779,
     "dailyMinutesDown": {
       "2021-03-03": 120,
       "2021-03-01": 59,
