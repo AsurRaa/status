@@ -12,7 +12,7 @@
     "uptimeYear": "99.97%",
     "time": 900,
     "timeDay": 304,
-    "timeWeek": 336,
+    "timeWeek": 338,
     "timeMonth": 277,
     "timeYear": 880,
     "dailyMinutesDown": {
@@ -27,15 +27,15 @@
     "url": "https://asurraa.com",
     "icon": "https://favicons.githubusercontent.com/asurraa.com",
     "slug": "asurraa-website",
-    "status": "up",
+    "status": "down",
     "uptime": "99.32%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.44%",
+    "uptimeYear": "99.45%",
     "time": 902,
     "timeDay": 171,
-    "timeWeek": 157,
+    "timeWeek": 158,
     "timeMonth": 173,
     "timeYear": 905,
     "dailyMinutesDown": {
@@ -60,7 +60,7 @@
     "uptimeYear": "99.94%",
     "time": 883,
     "timeDay": 679,
-    "timeWeek": 677,
+    "timeWeek": 679,
     "timeMonth": 683,
     "timeYear": 886,
     "dailyMinutesDown": {
@@ -88,7 +88,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-02-22": 1169,
+      "2022-02-22": 1232,
       "2022-02-21": 1440,
       "2022-02-20": 1440,
       "2022-02-19": 1440,
@@ -491,7 +491,7 @@
     "uptimeYear": "98.81%",
     "time": 1573,
     "timeDay": 1081,
-    "timeWeek": 1073,
+    "timeWeek": 1074,
     "timeMonth": 1070,
     "timeYear": 1587,
     "dailyMinutesDown": {
@@ -520,7 +520,7 @@
     "uptimeYear": "97.73%",
     "time": 1370,
     "timeDay": 1056,
-    "timeWeek": 1062,
+    "timeWeek": 1063,
     "timeMonth": 1080,
     "timeYear": 1375,
     "dailyMinutesDown": {
@@ -554,7 +554,7 @@
     "timeMonth": 0,
     "timeYear": 790,
     "dailyMinutesDown": {
-      "2022-02-22": 1170,
+      "2022-02-22": 1233,
       "2022-02-21": 1440,
       "2022-02-20": 1440,
       "2022-02-19": 1440,
@@ -936,7 +936,7 @@
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 2830,
+    "timeYear": 2831,
     "dailyMinutesDown": {
       "2021-03-03": 120,
       "2021-03-01": 59,
