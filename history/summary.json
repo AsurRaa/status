@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 670,
-    "timeDay": 201,
-    "timeWeek": 268,
+    "time": 669,
+    "timeDay": 218,
+    "timeWeek": 269,
     "timeMonth": 276,
-    "timeYear": 647,
+    "timeYear": 646,
     "dailyMinutesDown": {}
   },
   {
@@ -29,9 +29,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 822,
-    "timeDay": 167,
+    "timeDay": 156,
     "timeWeek": 186,
-    "timeMonth": 190,
+    "timeMonth": 189,
     "timeYear": 823,
     "dailyMinutesDown": {}
   },
@@ -41,7 +41,7 @@
     "icon": "https://favicons.githubusercontent.com/thakvika-api-dev.asurraa.com",
     "slug": "thakvika-api",
     "status": "down",
-    "uptime": "94.87%",
+    "uptime": "94.88%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -70,7 +70,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-04-10": 489,
+      "2022-04-10": 795,
       "2022-04-09": 1440,
       "2022-04-08": 1440,
       "2022-04-07": 1440,
@@ -467,10 +467,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1446,
-    "timeDay": 1074,
-    "timeWeek": 1096,
+    "timeDay": 1068,
+    "timeWeek": 1095,
     "timeMonth": 1091,
-    "timeYear": 1422,
+    "timeYear": 1420,
     "dailyMinutesDown": {}
   },
   {
@@ -485,10 +485,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1310,
-    "timeDay": 1075,
-    "timeWeek": 1093,
-    "timeMonth": 1089,
-    "timeYear": 1297,
+    "timeDay": 1063,
+    "timeWeek": 1094,
+    "timeMonth": 1088,
+    "timeYear": 1296,
     "dailyMinutesDown": {}
   },
   {
@@ -508,7 +508,7 @@
     "timeMonth": 0,
     "timeYear": 781,
     "dailyMinutesDown": {
-      "2022-04-10": 490,
+      "2022-04-10": 796,
       "2022-04-09": 1440,
       "2022-04-08": 1440,
       "2022-04-07": 1440,
