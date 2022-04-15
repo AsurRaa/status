@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 657,
-    "timeDay": 270,
-    "timeWeek": 280,
-    "timeMonth": 276,
-    "timeYear": 628,
+    "time": 655,
+    "timeDay": 258,
+    "timeWeek": 267,
+    "timeMonth": 275,
+    "timeYear": 625,
     "dailyMinutesDown": {}
   },
   {
@@ -28,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 814,
-    "timeDay": 118,
-    "timeWeek": 181,
-    "timeMonth": 178,
-    "timeYear": 814,
+    "time": 812,
+    "timeDay": 109,
+    "timeWeek": 157,
+    "timeMonth": 177,
+    "timeYear": 812,
     "dailyMinutesDown": {}
   },
   {
@@ -41,7 +41,7 @@
     "icon": "https://favicons.githubusercontent.com/thakvika-api-dev.asurraa.com",
     "slug": "thakvika-api",
     "status": "down",
-    "uptime": "94.92%",
+    "uptime": "94.93%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -49,8 +49,8 @@
     "time": 870,
     "timeDay": 0,
     "timeWeek": 0,
-    "timeMonth": 694,
-    "timeYear": 860,
+    "timeMonth": 692,
+    "timeYear": 859,
     "dailyMinutesDown": {}
   },
   {
@@ -70,7 +70,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-04-14": 803,
+      "2022-04-15": 314,
+      "2022-04-14": 1440,
       "2022-04-13": 1440,
       "2022-04-12": 1440,
       "2022-04-11": 1440,
@@ -433,8 +434,7 @@
       "2021-04-19": 1440,
       "2021-04-18": 1440,
       "2021-04-17": 1440,
-      "2021-04-16": 1440,
-      "2021-04-15": 1440
+      "2021-04-16": 1440
     }
   },
   {
@@ -443,7 +443,7 @@
     "icon": "https://favicons.githubusercontent.com/lauvann.info",
     "slug": "lv-website",
     "status": "down",
-    "uptime": "96.29%",
+    "uptime": "96.30%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -461,16 +461,16 @@
     "icon": "https://favicons.githubusercontent.com/gogym-api-dev.asurraa.com",
     "slug": "gogym-api",
     "status": "up",
-    "uptime": "98.03%",
+    "uptime": "98.04%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1432,
-    "timeDay": 1073,
-    "timeWeek": 1078,
-    "timeMonth": 1089,
-    "timeYear": 1400,
+    "time": 1430,
+    "timeDay": 1060,
+    "timeWeek": 1077,
+    "timeMonth": 1087,
+    "timeYear": 1396,
     "dailyMinutesDown": {}
   },
   {
@@ -484,11 +484,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1295,
-    "timeDay": 1045,
-    "timeWeek": 1079,
-    "timeMonth": 1085,
-    "timeYear": 1286,
+    "time": 1294,
+    "timeDay": 1049,
+    "timeWeek": 1080,
+    "timeMonth": 1083,
+    "timeYear": 1284,
     "dailyMinutesDown": {}
   },
   {
@@ -502,13 +502,14 @@
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
-    "time": 778,
+    "time": 781,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 778,
+    "timeYear": 783,
     "dailyMinutesDown": {
-      "2022-04-14": 804,
+      "2022-04-15": 316,
+      "2022-04-14": 1440,
       "2022-04-13": 1440,
       "2022-04-12": 1440,
       "2022-04-11": 1440,
@@ -871,8 +872,7 @@
       "2021-04-19": 1440,
       "2021-04-18": 1440,
       "2021-04-17": 1440,
-      "2021-04-16": 1440,
-      "2021-04-15": 1440
+      "2021-04-16": 1440
     }
   },
   {
