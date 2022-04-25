@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 609,
-    "timeDay": 297,
-    "timeWeek": 324,
-    "timeMonth": 281,
-    "timeYear": 587,
+    "time": 603,
+    "timeDay": 296,
+    "timeWeek": 375,
+    "timeMonth": 296,
+    "timeYear": 577,
     "dailyMinutesDown": {}
   },
   {
@@ -23,16 +23,16 @@
     "icon": "https://favicons.githubusercontent.com/asurraa.com",
     "slug": "asurraa-website",
     "status": "up",
-    "uptime": "99.40%",
+    "uptime": "99.41%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 794,
-    "timeDay": 142,
-    "timeWeek": 167,
-    "timeMonth": 176,
-    "timeYear": 794,
+    "time": 790,
+    "timeDay": 286,
+    "timeWeek": 179,
+    "timeMonth": 180,
+    "timeYear": 790,
     "dailyMinutesDown": {}
   },
   {
@@ -41,16 +41,16 @@
     "icon": "https://favicons.githubusercontent.com/thakvika-api-dev.asurraa.com",
     "slug": "thakvika-api",
     "status": "down",
-    "uptime": "95.02%",
+    "uptime": "95.04%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 855,
+    "time": 852,
     "timeDay": 0,
     "timeWeek": 0,
-    "timeMonth": 696,
-    "timeYear": 844,
+    "timeMonth": 703,
+    "timeYear": 840,
     "dailyMinutesDown": {}
   },
   {
@@ -70,7 +70,9 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-04-23": 369,
+      "2022-04-25": 371,
+      "2022-04-24": 1440,
+      "2022-04-23": 1440,
       "2022-04-22": 1440,
       "2022-04-21": 1440,
       "2022-04-20": 1440,
@@ -432,9 +434,7 @@
       "2021-04-29": 1440,
       "2021-04-28": 1440,
       "2021-04-27": 1440,
-      "2021-04-26": 1440,
-      "2021-04-25": 1440,
-      "2021-04-24": 1440
+      "2021-04-26": 1440
     }
   },
   {
@@ -443,7 +443,7 @@
     "icon": "https://favicons.githubusercontent.com/lauvann.info",
     "slug": "lv-website",
     "status": "down",
-    "uptime": "96.36%",
+    "uptime": "96.38%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -452,7 +452,7 @@
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 855,
+    "timeYear": 0,
     "dailyMinutesDown": {}
   },
   {
@@ -461,16 +461,16 @@
     "icon": "https://favicons.githubusercontent.com/gogym-api-dev.asurraa.com",
     "slug": "gogym-api",
     "status": "up",
-    "uptime": "98.07%",
+    "uptime": "98.08%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1386,
-    "timeDay": 1103,
-    "timeWeek": 1090,
-    "timeMonth": 1090,
-    "timeYear": 1355,
+    "time": 1379,
+    "timeDay": 1128,
+    "timeWeek": 1102,
+    "timeMonth": 1091,
+    "timeYear": 1344,
     "dailyMinutesDown": {}
   },
   {
@@ -479,16 +479,16 @@
     "icon": "https://favicons.githubusercontent.com/gogym-pos-dev.asurraa.com",
     "slug": "gogym-ui",
     "status": "up",
-    "uptime": "95.89%",
+    "uptime": "95.91%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1280,
-    "timeDay": 1101,
+    "time": 1268,
+    "timeDay": 1083,
     "timeWeek": 1089,
-    "timeMonth": 1084,
-    "timeYear": 1264,
+    "timeMonth": 1085,
+    "timeYear": 1258,
     "dailyMinutesDown": {}
   },
   {
@@ -508,7 +508,9 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-04-23": 370,
+      "2022-04-25": 372,
+      "2022-04-24": 1440,
+      "2022-04-23": 1440,
       "2022-04-22": 1440,
       "2022-04-21": 1440,
       "2022-04-20": 1440,
@@ -870,9 +872,7 @@
       "2021-04-29": 1440,
       "2021-04-28": 1440,
       "2021-04-27": 1440,
-      "2021-04-26": 1440,
-      "2021-04-25": 1440,
-      "2021-04-24": 1440
+      "2021-04-26": 1440
     }
   },
   {
@@ -890,7 +890,7 @@
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 832,
+    "timeYear": 0,
     "dailyMinutesDown": {}
   }
 ]
