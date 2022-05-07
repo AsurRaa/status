@@ -11,10 +11,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 549,
-    "timeDay": 206,
-    "timeWeek": 326,
+    "timeDay": 220,
+    "timeWeek": 318,
     "timeMonth": 317,
-    "timeYear": 515,
+    "timeYear": 514,
     "dailyMinutesDown": {}
   },
   {
@@ -29,8 +29,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 764,
-    "timeDay": 128,
-    "timeWeek": 172,
+    "timeDay": 131,
+    "timeWeek": 171,
     "timeMonth": 167,
     "timeYear": 762,
     "dailyMinutesDown": {}
@@ -41,7 +41,7 @@
     "icon": "https://favicons.githubusercontent.com/thakvika-api-dev.asurraa.com",
     "slug": "thakvika-api",
     "status": "down",
-    "uptime": "95.16%",
+    "uptime": "95.17%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -50,7 +50,7 @@
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 813,
+    "timeYear": 812,
     "dailyMinutesDown": {}
   },
   {
@@ -70,7 +70,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-05-07": 732,
+      "2022-05-07": 969,
       "2022-05-06": 1440,
       "2022-05-05": 1440,
       "2022-05-04": 1440,
@@ -466,10 +466,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1301,
-    "timeDay": 1640,
-    "timeWeek": 1173,
-    "timeMonth": 1109,
+    "time": 1300,
+    "timeDay": 1692,
+    "timeWeek": 1179,
+    "timeMonth": 1110,
     "timeYear": 1276,
     "dailyMinutesDown": {}
   },
@@ -484,9 +484,9 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1238,
-    "timeDay": 1206,
-    "timeWeek": 1092,
+    "time": 1237,
+    "timeDay": 1201,
+    "timeWeek": 1093,
     "timeMonth": 1084,
     "timeYear": 1224,
     "dailyMinutesDown": {}
@@ -508,7 +508,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-05-07": 734,
+      "2022-05-07": 969,
       "2022-05-06": 1440,
       "2022-05-05": 1440,
       "2022-05-04": 1440,
