@@ -11,10 +11,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 519,
-    "timeDay": 358,
-    "timeWeek": 353,
+    "timeDay": 353,
+    "timeWeek": 352,
     "timeMonth": 327,
-    "timeYear": 496,
+    "timeYear": 495,
     "dailyMinutesDown": {}
   },
   {
@@ -30,9 +30,9 @@
     "uptimeYear": "100.00%",
     "time": 757,
     "timeDay": 274,
-    "timeWeek": 236,
+    "timeWeek": 235,
     "timeMonth": 175,
-    "timeYear": 755,
+    "timeYear": 754,
     "dailyMinutesDown": {}
   },
   {
@@ -70,7 +70,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-05-11": 37,
+      "2022-05-11": 265,
       "2022-05-10": 1440,
       "2022-05-09": 1440,
       "2022-05-08": 1440,
@@ -443,7 +443,7 @@
     "icon": "https://favicons.githubusercontent.com/lauvann.info",
     "slug": "lv-website",
     "status": "down",
-    "uptime": "96.49%",
+    "uptime": "96.50%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -466,9 +466,9 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1289,
-    "timeDay": 1136,
-    "timeWeek": 1254,
+    "time": 1288,
+    "timeDay": 1135,
+    "timeWeek": 1245,
     "timeMonth": 1130,
     "timeYear": 1256,
     "dailyMinutesDown": {}
@@ -485,9 +485,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1231,
-    "timeDay": 1136,
-    "timeWeek": 1122,
-    "timeMonth": 1088,
+    "timeDay": 1127,
+    "timeWeek": 1120,
+    "timeMonth": 1087,
     "timeYear": 1214,
     "dailyMinutesDown": {}
   },
@@ -508,7 +508,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-05-11": 38,
+      "2022-05-11": 266,
       "2022-05-10": 1440,
       "2022-05-09": 1440,
       "2022-05-08": 1440,
