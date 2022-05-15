@@ -11,10 +11,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 505,
-    "timeDay": 759,
-    "timeWeek": 429,
+    "timeDay": 734,
+    "timeWeek": 427,
     "timeMonth": 359,
-    "timeYear": 474,
+    "timeYear": 473,
     "dailyMinutesDown": {}
   },
   {
@@ -29,10 +29,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 745,
-    "timeDay": 406,
-    "timeWeek": 264,
+    "timeDay": 397,
+    "timeWeek": 265,
     "timeMonth": 191,
-    "timeYear": 743,
+    "timeYear": 742,
     "dailyMinutesDown": {}
   },
   {
@@ -50,7 +50,7 @@
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 793,
+    "timeYear": 792,
     "dailyMinutesDown": {}
   },
   {
@@ -70,7 +70,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-05-15": 666,
+      "2022-05-15": 805,
       "2022-05-14": 1440,
       "2022-05-13": 1440,
       "2022-05-12": 1440,
@@ -467,10 +467,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1272,
-    "timeDay": 1196,
-    "timeWeek": 1185,
-    "timeMonth": 1139,
-    "timeYear": 1231,
+    "timeDay": 1198,
+    "timeWeek": 1187,
+    "timeMonth": 1140,
+    "timeYear": 1230,
     "dailyMinutesDown": {}
   },
   {
@@ -479,15 +479,15 @@
     "icon": "https://favicons.githubusercontent.com/gogym-pos-dev.asurraa.com",
     "slug": "gogym-ui",
     "status": "up",
-    "uptime": "96.08%",
+    "uptime": "96.09%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1212,
-    "timeDay": 1184,
-    "timeWeek": 1121,
-    "timeMonth": 1096,
+    "timeDay": 1185,
+    "timeWeek": 1124,
+    "timeMonth": 1097,
     "timeYear": 1201,
     "dailyMinutesDown": {}
   },
@@ -508,7 +508,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-05-15": 667,
+      "2022-05-15": 805,
       "2022-05-14": 1440,
       "2022-05-13": 1440,
       "2022-05-12": 1440,
