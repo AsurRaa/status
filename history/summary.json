@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 486,
-    "timeDay": 233,
-    "timeWeek": 376,
-    "timeMonth": 354,
-    "timeYear": 440,
+    "time": 485,
+    "timeDay": 271,
+    "timeWeek": 377,
+    "timeMonth": 355,
+    "timeYear": 439,
     "dailyMinutesDown": {}
   },
   {
@@ -29,10 +29,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 732,
-    "timeDay": 224,
-    "timeWeek": 230,
+    "timeDay": 225,
+    "timeWeek": 228,
     "timeMonth": 195,
-    "timeYear": 727,
+    "timeYear": 726,
     "dailyMinutesDown": {}
   },
   {
@@ -50,7 +50,7 @@
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 781,
+    "timeYear": 780,
     "dailyMinutesDown": {}
   },
   {
@@ -70,7 +70,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-05-20": 609,
+      "2022-05-20": 908,
       "2022-05-19": 1440,
       "2022-05-18": 1440,
       "2022-05-17": 1440,
@@ -466,11 +466,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1231,
-    "timeDay": 1215,
-    "timeWeek": 1172,
+    "time": 1230,
+    "timeDay": 1205,
+    "timeWeek": 1176,
     "timeMonth": 1156,
-    "timeYear": 1205,
+    "timeYear": 1204,
     "dailyMinutesDown": {}
   },
   {
@@ -479,16 +479,16 @@
     "icon": "https://favicons.githubusercontent.com/gogym-pos-dev.asurraa.com",
     "slug": "gogym-ui",
     "status": "up",
-    "uptime": "96.12%",
+    "uptime": "96.13%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1204,
-    "timeDay": 1176,
-    "timeWeek": 1149,
+    "time": 1203,
+    "timeDay": 1152,
+    "timeWeek": 1150,
     "timeMonth": 1110,
-    "timeYear": 1190,
+    "timeYear": 1189,
     "dailyMinutesDown": {}
   },
   {
@@ -508,7 +508,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-05-20": 610,
+      "2022-05-20": 909,
       "2022-05-19": 1440,
       "2022-05-18": 1440,
       "2022-05-17": 1440,
