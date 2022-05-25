@@ -11,10 +11,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 466,
-    "timeDay": 207,
-    "timeWeek": 270,
-    "timeMonth": 335,
-    "timeYear": 413,
+    "timeDay": 300,
+    "timeWeek": 282,
+    "timeMonth": 338,
+    "timeYear": 412,
     "dailyMinutesDown": {}
   },
   {
@@ -28,9 +28,9 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 721,
-    "timeDay": 146,
-    "timeWeek": 207,
+    "time": 720,
+    "timeDay": 156,
+    "timeWeek": 208,
     "timeMonth": 202,
     "timeYear": 714,
     "dailyMinutesDown": {}
@@ -50,7 +50,7 @@
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 769,
+    "timeYear": 768,
     "dailyMinutesDown": {}
   },
   {
@@ -70,7 +70,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-05-25": 548,
+      "2022-05-25": 735,
       "2022-05-24": 1440,
       "2022-05-23": 1440,
       "2022-05-22": 1440,
@@ -466,11 +466,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1213,
-    "timeDay": 1190,
-    "timeWeek": 1183,
-    "timeMonth": 1168,
-    "timeYear": 1179,
+    "time": 1212,
+    "timeDay": 1210,
+    "timeWeek": 1187,
+    "timeMonth": 1170,
+    "timeYear": 1178,
     "dailyMinutesDown": {}
   },
   {
@@ -479,16 +479,16 @@
     "icon": "https://favicons.githubusercontent.com/gogym-pos-dev.asurraa.com",
     "slug": "gogym-ui",
     "status": "up",
-    "uptime": "96.16%",
+    "uptime": "96.17%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1195,
-    "timeDay": 1181,
-    "timeWeek": 1151,
-    "timeMonth": 1119,
-    "timeYear": 1178,
+    "timeDay": 1190,
+    "timeWeek": 1153,
+    "timeMonth": 1120,
+    "timeYear": 1177,
     "dailyMinutesDown": {}
   },
   {
@@ -508,7 +508,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-05-25": 549,
+      "2022-05-25": 736,
       "2022-05-24": 1440,
       "2022-05-23": 1440,
       "2022-05-22": 1440,
