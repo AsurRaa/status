@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 413,
-    "timeDay": 303,
-    "timeWeek": 293,
+    "time": 439,
+    "timeDay": 281,
+    "timeWeek": 292,
     "timeMonth": 276,
-    "timeYear": 392,
+    "timeYear": 391,
     "dailyMinutesDown": {}
   },
   {
@@ -22,16 +22,16 @@
     "url": "https://asurraa.com",
     "icon": "https://favicons.githubusercontent.com/asurraa.com",
     "slug": "asurraa-website",
-    "status": "up",
+    "status": "down",
     "uptime": "99.47%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 674,
-    "timeDay": 2119,
-    "timeWeek": 420,
-    "timeMonth": 222,
+    "timeDay": 2396,
+    "timeWeek": 453,
+    "timeMonth": 229,
     "timeYear": 668,
     "dailyMinutesDown": {}
   },
@@ -70,7 +70,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-06-21": 1327,
+      "2022-06-22": 174,
+      "2022-06-21": 1440,
       "2022-06-20": 1440,
       "2022-06-19": 1440,
       "2022-06-18": 1440,
@@ -433,8 +434,7 @@
       "2021-06-26": 1440,
       "2021-06-25": 1440,
       "2021-06-24": 1440,
-      "2021-06-23": 1440,
-      "2021-06-22": 1440
+      "2021-06-23": 1440
     }
   },
   {
@@ -467,9 +467,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1198,
-    "timeDay": 3008,
-    "timeWeek": 1273,
-    "timeMonth": 1156,
+    "timeDay": 4329,
+    "timeWeek": 1274,
+    "timeMonth": 1155,
     "timeYear": 1166,
     "dailyMinutesDown": {}
   },
@@ -485,8 +485,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1185,
-    "timeDay": 3034,
-    "timeWeek": 1242,
+    "timeDay": 4395,
+    "timeWeek": 1243,
     "timeMonth": 1134,
     "timeYear": 1168,
     "dailyMinutesDown": {}
@@ -508,7 +508,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-06-21": 1328,
+      "2022-06-22": 175,
+      "2022-06-21": 1440,
       "2022-06-20": 1440,
       "2022-06-19": 1440,
       "2022-06-18": 1440,
@@ -871,8 +872,7 @@
       "2021-06-26": 1440,
       "2021-06-25": 1440,
       "2021-06-24": 1440,
-      "2021-06-23": 1440,
-      "2021-06-22": 1440
+      "2021-06-23": 1440
     }
   },
   {
