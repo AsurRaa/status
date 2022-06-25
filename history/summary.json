@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 429,
-    "timeDay": 233,
-    "timeWeek": 304,
-    "timeMonth": 280,
-    "timeYear": 391,
+    "time": 427,
+    "timeDay": 239,
+    "timeWeek": 308,
+    "timeMonth": 281,
+    "timeYear": 390,
     "dailyMinutesDown": {}
   },
   {
@@ -28,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 678,
-    "timeDay": 1611,
-    "timeWeek": 925,
-    "timeMonth": 310,
-    "timeYear": 674,
+    "time": 679,
+    "timeDay": 1597,
+    "timeWeek": 1021,
+    "timeMonth": 329,
+    "timeYear": 675,
     "dailyMinutesDown": {}
   },
   {
@@ -41,12 +41,12 @@
     "icon": "https://favicons.githubusercontent.com/thakvika-api-dev.asurraa.com",
     "slug": "thakvika-api",
     "status": "down",
-    "uptime": "95.60%",
+    "uptime": "95.61%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 785,
+    "time": 784,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
@@ -70,7 +70,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-06-24": 969,
+      "2022-06-25": 182,
+      "2022-06-24": 1440,
       "2022-06-23": 1440,
       "2022-06-22": 1440,
       "2022-06-21": 1440,
@@ -433,8 +434,7 @@
       "2021-06-29": 1440,
       "2021-06-28": 1440,
       "2021-06-27": 1440,
-      "2021-06-26": 1440,
-      "2021-06-25": 1440
+      "2021-06-26": 1440
     }
   },
   {
@@ -443,7 +443,7 @@
     "icon": "https://favicons.githubusercontent.com/lauvann.info",
     "slug": "lv-website",
     "status": "down",
-    "uptime": "96.79%",
+    "uptime": "96.80%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -466,10 +466,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1193,
-    "timeDay": 1110,
-    "timeWeek": 1304,
-    "timeMonth": 1155,
+    "time": 1191,
+    "timeDay": 1085,
+    "timeWeek": 1306,
+    "timeMonth": 1153,
     "timeYear": 1166,
     "dailyMinutesDown": {}
   },
@@ -484,11 +484,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1183,
-    "timeDay": 1120,
-    "timeWeek": 1281,
-    "timeMonth": 1133,
-    "timeYear": 1168,
+    "time": 1182,
+    "timeDay": 1097,
+    "timeWeek": 1285,
+    "timeMonth": 1132,
+    "timeYear": 1167,
     "dailyMinutesDown": {}
   },
   {
@@ -508,7 +508,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-06-24": 970,
+      "2022-06-25": 182,
+      "2022-06-24": 1440,
       "2022-06-23": 1440,
       "2022-06-22": 1440,
       "2022-06-21": 1440,
@@ -871,8 +872,7 @@
       "2021-06-29": 1440,
       "2021-06-28": 1440,
       "2021-06-27": 1440,
-      "2021-06-26": 1440,
-      "2021-06-25": 1440
+      "2021-06-26": 1440
     }
   },
   {
