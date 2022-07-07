@@ -10,10 +10,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 427,
-    "timeDay": 318,
-    "timeWeek": 265,
-    "timeMonth": 269,
+    "time": 425,
+    "timeDay": 272,
+    "timeWeek": 260,
+    "timeMonth": 268,
     "timeYear": 387,
     "dailyMinutesDown": {}
   },
@@ -28,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 700,
-    "timeDay": 2116,
-    "timeWeek": 1616,
-    "timeMonth": 849,
-    "timeYear": 696,
+    "time": 701,
+    "timeDay": 1592,
+    "timeWeek": 1625,
+    "timeMonth": 887,
+    "timeYear": 698,
     "dailyMinutesDown": {}
   },
   {
@@ -41,12 +41,12 @@
     "icon": "https://favicons.githubusercontent.com/thakvika-api-dev.asurraa.com",
     "slug": "thakvika-api",
     "status": "down",
-    "uptime": "95.70%",
+    "uptime": "95.71%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 786,
+    "time": 785,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
@@ -70,7 +70,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-07-06": 734,
+      "2022-07-07": 490,
+      "2022-07-06": 1440,
       "2022-07-05": 1440,
       "2022-07-04": 1440,
       "2022-07-03": 1440,
@@ -433,8 +434,7 @@
       "2021-07-11": 1440,
       "2021-07-10": 1440,
       "2021-07-09": 1440,
-      "2021-07-08": 1440,
-      "2021-07-07": 1440
+      "2021-07-08": 1440
     }
   },
   {
@@ -443,7 +443,7 @@
     "icon": "https://favicons.githubusercontent.com/lauvann.info",
     "slug": "lv-website",
     "status": "down",
-    "uptime": "96.86%",
+    "uptime": "96.87%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -466,10 +466,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1192,
-    "timeDay": 1166,
-    "timeWeek": 1135,
-    "timeMonth": 1168,
+    "time": 1191,
+    "timeDay": 1125,
+    "timeWeek": 1136,
+    "timeMonth": 1167,
     "timeYear": 1165,
     "dailyMinutesDown": {}
   },
@@ -485,9 +485,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1181,
-    "timeDay": 1152,
+    "timeDay": 1078,
     "timeWeek": 1109,
-    "timeMonth": 1148,
+    "timeMonth": 1147,
     "timeYear": 1166,
     "dailyMinutesDown": {}
   },
@@ -508,7 +508,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-07-06": 735,
+      "2022-07-07": 490,
+      "2022-07-06": 1440,
       "2022-07-05": 1440,
       "2022-07-04": 1440,
       "2022-07-03": 1440,
@@ -871,8 +872,7 @@
       "2021-07-11": 1440,
       "2021-07-10": 1440,
       "2021-07-09": 1440,
-      "2021-07-08": 1440,
-      "2021-07-07": 1440
+      "2021-07-08": 1440
     }
   },
   {
