@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 409,
-    "timeDay": 332,
-    "timeWeek": 333,
-    "timeMonth": 286,
-    "timeYear": 384,
+    "time": 407,
+    "timeDay": 201,
+    "timeWeek": 324,
+    "timeMonth": 285,
+    "timeYear": 383,
     "dailyMinutesDown": {}
   },
   {
@@ -22,17 +22,17 @@
     "url": "https://asurraa.com",
     "icon": "https://favicons.githubusercontent.com/asurraa.com",
     "slug": "asurraa-website",
-    "status": "up",
-    "uptime": "99.50%",
+    "status": "down",
+    "uptime": "99.51%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 732,
-    "timeDay": 1486,
-    "timeWeek": 1355,
-    "timeMonth": 1533,
-    "timeYear": 729,
+    "time": 733,
+    "timeDay": 1285,
+    "timeWeek": 1346,
+    "timeMonth": 1521,
+    "timeYear": 730,
     "dailyMinutesDown": {}
   },
   {
@@ -41,12 +41,12 @@
     "icon": "https://favicons.githubusercontent.com/thakvika-api-dev.asurraa.com",
     "slug": "thakvika-api",
     "status": "down",
-    "uptime": "95.85%",
+    "uptime": "95.86%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 778,
+    "time": 777,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
@@ -70,7 +70,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-07-26": 734,
+      "2022-07-27": 693,
+      "2022-07-26": 1440,
       "2022-07-25": 1440,
       "2022-07-24": 1440,
       "2022-07-23": 1440,
@@ -433,8 +434,7 @@
       "2021-07-31": 1440,
       "2021-07-30": 1440,
       "2021-07-29": 1440,
-      "2021-07-28": 1440,
-      "2021-07-27": 1440
+      "2021-07-28": 1440
     }
   },
   {
@@ -466,11 +466,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1198,
-    "timeDay": 1170,
-    "timeWeek": 1145,
-    "timeMonth": 1133,
-    "timeYear": 1164,
+    "time": 1196,
+    "timeDay": 1020,
+    "timeWeek": 1124,
+    "timeMonth": 1131,
+    "timeYear": 1163,
     "dailyMinutesDown": {}
   },
   {
@@ -484,10 +484,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1182,
-    "timeDay": 1098,
-    "timeWeek": 1118,
-    "timeMonth": 1111,
+    "time": 1181,
+    "timeDay": 1023,
+    "timeWeek": 1103,
+    "timeMonth": 1107,
     "timeYear": 1164,
     "dailyMinutesDown": {}
   },
@@ -508,7 +508,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-07-26": 735,
+      "2022-07-27": 694,
+      "2022-07-26": 1440,
       "2022-07-25": 1440,
       "2022-07-24": 1440,
       "2022-07-23": 1440,
@@ -871,8 +872,7 @@
       "2021-07-31": 1440,
       "2021-07-30": 1440,
       "2021-07-29": 1440,
-      "2021-07-28": 1440,
-      "2021-07-27": 1440
+      "2021-07-28": 1440
     }
   },
   {
@@ -881,7 +881,7 @@
     "icon": "https://favicons.githubusercontent.com/1aseam.asurraa.com",
     "slug": "1-asem",
     "status": "down",
-    "uptime": "99.95%",
+    "uptime": "99.96%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
