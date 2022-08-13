@@ -12,8 +12,8 @@
     "uptimeYear": "100.00%",
     "time": 382,
     "timeDay": 0,
-    "timeWeek": 452,
-    "timeMonth": 318,
+    "timeWeek": 438,
+    "timeMonth": 317,
     "timeYear": 368,
     "dailyMinutesDown": {}
   },
@@ -28,10 +28,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 747,
-    "timeDay": 1323,
-    "timeWeek": 1358,
-    "timeMonth": 1386,
+    "time": 748,
+    "timeDay": 1294,
+    "timeWeek": 1354,
+    "timeMonth": 1368,
     "timeYear": 746,
     "dailyMinutesDown": {}
   },
@@ -46,11 +46,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 763,
+    "time": 762,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 759,
+    "timeYear": 758,
     "dailyMinutesDown": {}
   },
   {
@@ -70,7 +70,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-08-12": 1037,
+      "2022-08-13": 427,
+      "2022-08-12": 1440,
       "2022-08-11": 1440,
       "2022-08-10": 1440,
       "2022-08-09": 1440,
@@ -433,8 +434,7 @@
       "2021-08-17": 1440,
       "2021-08-16": 1440,
       "2021-08-15": 1440,
-      "2021-08-14": 1440,
-      "2021-08-13": 1440
+      "2021-08-14": 1440
     }
   },
   {
@@ -466,11 +466,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1168,
-    "timeDay": 1226,
-    "timeWeek": 1141,
-    "timeMonth": 1135,
-    "timeYear": 1158,
+    "time": 1161,
+    "timeDay": 1217,
+    "timeWeek": 1139,
+    "timeMonth": 1134,
+    "timeYear": 1157,
     "dailyMinutesDown": {}
   },
   {
@@ -485,10 +485,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1162,
-    "timeDay": 1353,
-    "timeWeek": 1179,
+    "timeDay": 1182,
+    "timeWeek": 1176,
     "timeMonth": 1121,
-    "timeYear": 1155,
+    "timeYear": 1154,
     "dailyMinutesDown": {}
   },
   {
@@ -508,7 +508,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-08-12": 1038,
+      "2022-08-13": 428,
+      "2022-08-12": 1440,
       "2022-08-11": 1440,
       "2022-08-10": 1440,
       "2022-08-09": 1440,
@@ -871,8 +872,7 @@
       "2021-08-17": 1440,
       "2021-08-16": 1440,
       "2021-08-15": 1440,
-      "2021-08-14": 1440,
-      "2021-08-13": 1440
+      "2021-08-14": 1440
     }
   },
   {
