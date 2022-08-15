@@ -13,7 +13,7 @@
     "time": 381,
     "timeDay": 0,
     "timeWeek": 373,
-    "timeMonth": 325,
+    "timeMonth": 327,
     "timeYear": 368,
     "dailyMinutesDown": {}
   },
@@ -28,10 +28,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 749,
-    "timeDay": 1291,
-    "timeWeek": 1366,
-    "timeMonth": 1353,
+    "time": 750,
+    "timeDay": 1308,
+    "timeWeek": 1361,
+    "timeMonth": 1352,
     "timeYear": 745,
     "dailyMinutesDown": {}
   },
@@ -70,7 +70,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-08-14": 1089,
+      "2022-08-15": 40,
+      "2022-08-14": 1440,
       "2022-08-13": 1440,
       "2022-08-12": 1440,
       "2022-08-11": 1440,
@@ -433,8 +434,7 @@
       "2021-08-19": 1440,
       "2021-08-18": 1440,
       "2021-08-17": 1440,
-      "2021-08-16": 1440,
-      "2021-08-15": 1440
+      "2021-08-16": 1440
     }
   },
   {
@@ -461,15 +461,15 @@
     "icon": "https://favicons.githubusercontent.com/gogym-api-dev.asurraa.com",
     "slug": "gogym-api",
     "status": "up",
-    "uptime": "98.45%",
+    "uptime": "98.46%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1161,
-    "timeDay": 1112,
-    "timeWeek": 1142,
-    "timeMonth": 1131,
+    "timeDay": 1111,
+    "timeWeek": 1139,
+    "timeMonth": 1130,
     "timeYear": 1156,
     "dailyMinutesDown": {}
   },
@@ -484,11 +484,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1162,
-    "timeDay": 1045,
-    "timeWeek": 1183,
-    "timeMonth": 1120,
-    "timeYear": 1154,
+    "time": 1161,
+    "timeDay": 1099,
+    "timeWeek": 1181,
+    "timeMonth": 1121,
+    "timeYear": 1153,
     "dailyMinutesDown": {}
   },
   {
@@ -508,7 +508,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-08-14": 1090,
+      "2022-08-15": 41,
+      "2022-08-14": 1440,
       "2022-08-13": 1440,
       "2022-08-12": 1440,
       "2022-08-11": 1440,
@@ -871,8 +872,7 @@
       "2021-08-19": 1440,
       "2021-08-18": 1440,
       "2021-08-17": 1440,
-      "2021-08-16": 1440,
-      "2021-08-15": 1440
+      "2021-08-16": 1440
     }
   },
   {
