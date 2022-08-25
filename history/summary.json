@@ -5,7 +5,7 @@
     "icon": "https://favicons.githubusercontent.com/saicambodianartist.com",
     "slug": "sai-website",
     "status": "down",
-    "uptime": "99.21%",
+    "uptime": "99.22%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -13,8 +13,8 @@
     "time": 366,
     "timeDay": 0,
     "timeWeek": 0,
-    "timeMonth": 366,
-    "timeYear": 365,
+    "timeMonth": 344,
+    "timeYear": 364,
     "dailyMinutesDown": {}
   },
   {
@@ -29,10 +29,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 751,
-    "timeDay": 1403,
-    "timeWeek": 1363,
-    "timeMonth": 1339,
-    "timeYear": 733,
+    "timeDay": 1429,
+    "timeWeek": 1370,
+    "timeMonth": 1341,
+    "timeYear": 732,
     "dailyMinutesDown": {}
   },
   {
@@ -41,7 +41,7 @@
     "icon": "https://favicons.githubusercontent.com/thakvika-api-dev.asurraa.com",
     "slug": "thakvika-api",
     "status": "down",
-    "uptime": "96.06%",
+    "uptime": "96.07%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -50,7 +50,7 @@
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 751,
+    "timeYear": 750,
     "dailyMinutesDown": {}
   },
   {
@@ -70,7 +70,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-08-25": 47,
+      "2022-08-25": 970,
       "2022-08-24": 1440,
       "2022-08-23": 1440,
       "2022-08-22": 1440,
@@ -467,10 +467,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1160,
-    "timeDay": 1420,
-    "timeWeek": 1436,
-    "timeMonth": 1243,
-    "timeYear": 1156,
+    "timeDay": 1389,
+    "timeWeek": 1421,
+    "timeMonth": 1247,
+    "timeYear": 1155,
     "dailyMinutesDown": {}
   },
   {
@@ -485,10 +485,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1157,
-    "timeDay": 1374,
-    "timeWeek": 1395,
-    "timeMonth": 1216,
-    "timeYear": 1152,
+    "timeDay": 1376,
+    "timeWeek": 1400,
+    "timeMonth": 1223,
+    "timeYear": 1151,
     "dailyMinutesDown": {}
   },
   {
@@ -508,7 +508,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-08-25": 49,
+      "2022-08-25": 971,
       "2022-08-24": 1440,
       "2022-08-23": 1440,
       "2022-08-22": 1440,
