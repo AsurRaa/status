@@ -29,8 +29,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 741,
-    "timeDay": 1399,
-    "timeWeek": 1349,
+    "timeDay": 1355,
+    "timeWeek": 1342,
     "timeMonth": 1354,
     "timeYear": 727,
     "dailyMinutesDown": {}
@@ -70,7 +70,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-10-01": 1389,
+      "2022-10-02": 811,
+      "2022-10-01": 1440,
       "2022-09-30": 1440,
       "2022-09-29": 1440,
       "2022-09-28": 1440,
@@ -433,8 +434,7 @@
       "2021-10-06": 1440,
       "2021-10-05": 1440,
       "2021-10-04": 1440,
-      "2021-10-03": 1440,
-      "2021-10-02": 1440
+      "2021-10-03": 1440
     }
   },
   {
@@ -461,15 +461,15 @@
     "icon": "https://favicons.githubusercontent.com/gogym-api-dev.asurraa.com",
     "slug": "gogym-api",
     "status": "up",
-    "uptime": "98.57%",
+    "uptime": "98.58%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1156,
-    "timeDay": 1212,
-    "timeWeek": 1265,
-    "timeMonth": 1235,
+    "timeDay": 1200,
+    "timeWeek": 1258,
+    "timeMonth": 1236,
     "timeYear": 1156,
     "dailyMinutesDown": {}
   },
@@ -484,9 +484,9 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1150,
-    "timeDay": 1187,
-    "timeWeek": 1266,
+    "time": 1151,
+    "timeDay": 1197,
+    "timeWeek": 1238,
     "timeMonth": 1209,
     "timeYear": 1151,
     "dailyMinutesDown": {}
@@ -508,7 +508,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-10-01": 1390,
+      "2022-10-02": 812,
+      "2022-10-01": 1440,
       "2022-09-30": 1440,
       "2022-09-29": 1440,
       "2022-09-28": 1440,
@@ -871,8 +872,7 @@
       "2021-10-06": 1440,
       "2021-10-05": 1440,
       "2021-10-04": 1440,
-      "2021-10-03": 1440,
-      "2021-10-02": 1440
+      "2021-10-03": 1440
     }
   },
   {
