@@ -10,10 +10,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 332,
-    "timeDay": 289,
-    "timeWeek": 385,
-    "timeMonth": 358,
+    "time": 331,
+    "timeDay": 268,
+    "timeWeek": 383,
+    "timeMonth": 356,
     "timeYear": 328,
     "dailyMinutesDown": {}
   },
@@ -28,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 752,
-    "timeDay": 1289,
-    "timeWeek": 1327,
-    "timeMonth": 1336,
-    "timeYear": 731,
+    "time": 751,
+    "timeDay": 1330,
+    "timeWeek": 1326,
+    "timeMonth": 1337,
+    "timeYear": 732,
     "dailyMinutesDown": {}
   },
   {
@@ -70,7 +70,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-11-06": 909,
+      "2022-11-07": 235,
+      "2022-11-06": 1440,
       "2022-11-05": 1440,
       "2022-11-04": 1440,
       "2022-11-03": 1440,
@@ -433,8 +434,7 @@
       "2021-11-11": 1440,
       "2021-11-10": 1440,
       "2021-11-09": 1440,
-      "2021-11-08": 1440,
-      "2021-11-07": 1440
+      "2021-11-08": 1440
     }
   },
   {
@@ -451,7 +451,7 @@
     "time": 902,
     "timeDay": 0,
     "timeWeek": 0,
-    "timeMonth": 860,
+    "timeMonth": 857,
     "timeYear": 902,
     "dailyMinutesDown": {}
   },
@@ -467,10 +467,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1157,
-    "timeDay": 1269,
-    "timeWeek": 1198,
-    "timeMonth": 1159,
-    "timeYear": 1153,
+    "timeDay": 1249,
+    "timeWeek": 1197,
+    "timeMonth": 1160,
+    "timeYear": 1154,
     "dailyMinutesDown": {}
   },
   {
@@ -484,10 +484,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1150,
-    "timeDay": 1241,
-    "timeWeek": 1177,
-    "timeMonth": 1154,
+    "time": 1151,
+    "timeDay": 1222,
+    "timeWeek": 1175,
+    "timeMonth": 1156,
     "timeYear": 1142,
     "dailyMinutesDown": {}
   },
@@ -508,7 +508,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-11-06": 910,
+      "2022-11-07": 236,
+      "2022-11-06": 1440,
       "2022-11-05": 1440,
       "2022-11-04": 1440,
       "2022-11-03": 1440,
@@ -871,8 +872,7 @@
       "2021-11-11": 1440,
       "2021-11-10": 1440,
       "2021-11-09": 1440,
-      "2021-11-08": 1440,
-      "2021-11-07": 1440
+      "2021-11-08": 1440
     }
   },
   {
