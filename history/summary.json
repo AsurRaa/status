@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 329,
-    "timeDay": 258,
+    "time": 328,
+    "timeDay": 278,
     "timeWeek": 285,
-    "timeMonth": 341,
-    "timeYear": 327,
+    "timeMonth": 338,
+    "timeYear": 326,
     "dailyMinutesDown": {}
   },
   {
@@ -29,10 +29,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 766,
-    "timeDay": 1336,
-    "timeWeek": 1333,
-    "timeMonth": 1333,
-    "timeYear": 739,
+    "timeDay": 1342,
+    "timeWeek": 1337,
+    "timeMonth": 1335,
+    "timeYear": 740,
     "dailyMinutesDown": {}
   },
   {
@@ -70,7 +70,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-11-12": 491,
+      "2022-11-13": 370,
+      "2022-11-12": 1440,
       "2022-11-11": 1440,
       "2022-11-10": 1440,
       "2022-11-09": 1440,
@@ -433,8 +434,7 @@
       "2021-11-17": 1440,
       "2021-11-16": 1440,
       "2021-11-15": 1440,
-      "2021-11-14": 1440,
-      "2021-11-13": 1440
+      "2021-11-14": 1440
     }
   },
   {
@@ -451,7 +451,7 @@
     "time": 902,
     "timeDay": 0,
     "timeWeek": 0,
-    "timeMonth": 782,
+    "timeMonth": 755,
     "timeYear": 902,
     "dailyMinutesDown": {}
   },
@@ -461,16 +461,16 @@
     "icon": "https://favicons.githubusercontent.com/gogym-api-dev.asurraa.com",
     "slug": "gogym-api",
     "status": "up",
-    "uptime": "98.66%",
+    "uptime": "98.67%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1158,
-    "timeDay": 1384,
-    "timeWeek": 1305,
-    "timeMonth": 1194,
-    "timeYear": 1156,
+    "time": 1159,
+    "timeDay": 1394,
+    "timeWeek": 1321,
+    "timeMonth": 1207,
+    "timeYear": 1157,
     "dailyMinutesDown": {}
   },
   {
@@ -484,11 +484,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1152,
-    "timeDay": 1267,
-    "timeWeek": 1291,
-    "timeMonth": 1188,
-    "timeYear": 1143,
+    "time": 1153,
+    "timeDay": 1368,
+    "timeWeek": 1311,
+    "timeMonth": 1198,
+    "timeYear": 1144,
     "dailyMinutesDown": {}
   },
   {
@@ -508,7 +508,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-11-12": 492,
+      "2022-11-13": 371,
+      "2022-11-12": 1440,
       "2022-11-11": 1440,
       "2022-11-10": 1440,
       "2022-11-09": 1440,
@@ -871,8 +872,7 @@
       "2021-11-17": 1440,
       "2021-11-16": 1440,
       "2021-11-15": 1440,
-      "2021-11-14": 1440,
-      "2021-11-13": 1440
+      "2021-11-14": 1440
     }
   },
   {
