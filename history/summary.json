@@ -22,7 +22,7 @@
     "url": "https://asurraa.com",
     "icon": "https://favicons.githubusercontent.com/asurraa.com",
     "slug": "asurraa-website",
-    "status": "up",
+    "status": "down",
     "uptime": "99.60%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -31,7 +31,7 @@
     "time": 792,
     "timeDay": 1467,
     "timeWeek": 1392,
-    "timeMonth": 1379,
+    "timeMonth": 1380,
     "timeYear": 783,
     "dailyMinutesDown": {}
   },
@@ -70,7 +70,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-12-06": 715,
+      "2022-12-06": 779,
       "2022-12-05": 1440,
       "2022-12-04": 1440,
       "2022-12-03": 1440,
@@ -470,7 +470,7 @@
     "timeDay": 1196,
     "timeWeek": 1227,
     "timeMonth": 1230,
-    "timeYear": 1161,
+    "timeYear": 1162,
     "dailyMinutesDown": {}
   },
   {
@@ -508,7 +508,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-12-06": 716,
+      "2022-12-06": 780,
       "2022-12-05": 1440,
       "2022-12-04": 1440,
       "2022-12-03": 1440,
