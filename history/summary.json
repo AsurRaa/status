@@ -5,12 +5,12 @@
     "icon": "https://favicons.githubusercontent.com/saicambodianartist.com",
     "slug": "sai-website",
     "status": "down",
-    "uptime": "99.35%",
+    "uptime": "99.36%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 317,
+    "time": 316,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
@@ -29,10 +29,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 844,
-    "timeDay": 1342,
-    "timeWeek": 1312,
+    "timeDay": 1330,
+    "timeWeek": 1315,
     "timeMonth": 1519,
-    "timeYear": 833,
+    "timeYear": 834,
     "dailyMinutesDown": {}
   },
   {
@@ -70,7 +70,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-12-31": 368,
+      "2023-01-01": 1265,
+      "2022-12-31": 1440,
       "2022-12-30": 1440,
       "2022-12-29": 1440,
       "2022-12-28": 1440,
@@ -433,8 +434,7 @@
       "2022-01-05": 1440,
       "2022-01-04": 1440,
       "2022-01-03": 1440,
-      "2022-01-02": 1440,
-      "2022-01-01": 1440
+      "2022-01-02": 1440
     }
   },
   {
@@ -443,7 +443,7 @@
     "icon": "https://favicons.githubusercontent.com/lauvann.info",
     "slug": "lv-website",
     "status": "down",
-    "uptime": "97.64%",
+    "uptime": "97.65%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -467,9 +467,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1173,
-    "timeDay": 1203,
-    "timeWeek": 1270,
-    "timeMonth": 1269,
+    "timeDay": 1149,
+    "timeWeek": 1230,
+    "timeMonth": 1268,
     "timeYear": 1172,
     "dailyMinutesDown": {}
   },
@@ -479,15 +479,15 @@
     "icon": "https://favicons.githubusercontent.com/gogym-pos-dev.asurraa.com",
     "slug": "gogym-ui",
     "status": "up",
-    "uptime": "97.35%",
+    "uptime": "97.36%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1156,
-    "timeDay": 1180,
-    "timeWeek": 1242,
-    "timeMonth": 1242,
+    "timeDay": 1137,
+    "timeWeek": 1214,
+    "timeMonth": 1239,
     "timeYear": 1156,
     "dailyMinutesDown": {}
   },
@@ -508,7 +508,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-12-31": 369,
+      "2023-01-01": 1266,
+      "2022-12-31": 1440,
       "2022-12-30": 1440,
       "2022-12-29": 1440,
       "2022-12-28": 1440,
@@ -871,8 +872,7 @@
       "2022-01-05": 1440,
       "2022-01-04": 1440,
       "2022-01-03": 1440,
-      "2022-01-02": 1440,
-      "2022-01-01": 1440
+      "2022-01-02": 1440
     }
   },
   {
