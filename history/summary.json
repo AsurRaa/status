@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 311,
+    "time": 317,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 309,
+    "timeYear": 308,
     "dailyMinutesDown": {}
   },
   {
@@ -28,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 847,
-    "timeDay": 1312,
-    "timeWeek": 1313,
-    "timeMonth": 1509,
-    "timeYear": 838,
+    "time": 849,
+    "timeDay": 1330,
+    "timeWeek": 1306,
+    "timeMonth": 1498,
+    "timeYear": 841,
     "dailyMinutesDown": {}
   },
   {
@@ -41,16 +41,16 @@
     "icon": "https://favicons.githubusercontent.com/thakvika-api-dev.asurraa.com",
     "slug": "thakvika-api",
     "status": "down",
-    "uptime": "96.78%",
+    "uptime": "96.80%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 709,
+    "time": 703,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 698,
+    "timeYear": 697,
     "dailyMinutesDown": {}
   },
   {
@@ -70,7 +70,9 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-01-04": 369,
+      "2023-01-06": 1352,
+      "2023-01-05": 1440,
+      "2023-01-04": 1440,
       "2023-01-03": 1440,
       "2023-01-02": 1440,
       "2023-01-01": 1440,
@@ -432,9 +434,7 @@
       "2022-01-10": 1440,
       "2022-01-09": 1440,
       "2022-01-08": 1440,
-      "2022-01-07": 1440,
-      "2022-01-06": 1440,
-      "2022-01-05": 1440
+      "2022-01-07": 1440
     }
   },
   {
@@ -461,16 +461,16 @@
     "icon": "https://favicons.githubusercontent.com/gogym-api-dev.asurraa.com",
     "slug": "gogym-api",
     "status": "up",
-    "uptime": "98.76%",
+    "uptime": "98.77%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1173,
-    "timeDay": 1268,
-    "timeWeek": 1208,
-    "timeMonth": 1263,
-    "timeYear": 1173,
+    "timeDay": 1247,
+    "timeWeek": 1183,
+    "timeMonth": 1261,
+    "timeYear": 1174,
     "dailyMinutesDown": {}
   },
   {
@@ -479,16 +479,16 @@
     "icon": "https://favicons.githubusercontent.com/gogym-pos-dev.asurraa.com",
     "slug": "gogym-ui",
     "status": "up",
-    "uptime": "97.37%",
+    "uptime": "97.38%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1157,
-    "timeDay": 1211,
-    "timeWeek": 1193,
-    "timeMonth": 1236,
-    "timeYear": 1156,
+    "time": 1158,
+    "timeDay": 1247,
+    "timeWeek": 1171,
+    "timeMonth": 1234,
+    "timeYear": 1157,
     "dailyMinutesDown": {}
   },
   {
@@ -508,7 +508,9 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-01-04": 370,
+      "2023-01-06": 1353,
+      "2023-01-05": 1440,
+      "2023-01-04": 1440,
       "2023-01-03": 1440,
       "2023-01-02": 1440,
       "2023-01-01": 1440,
@@ -870,9 +872,7 @@
       "2022-01-10": 1440,
       "2022-01-09": 1440,
       "2022-01-08": 1440,
-      "2022-01-07": 1440,
-      "2022-01-06": 1440,
-      "2022-01-05": 1440
+      "2022-01-07": 1440
     }
   },
   {
