@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 308,
+    "time": 307,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 305,
+    "timeYear": 306,
     "dailyMinutesDown": {}
   },
   {
@@ -28,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 871,
-    "timeDay": 1199,
-    "timeWeek": 1290,
+    "time": 873,
+    "timeDay": 1357,
+    "timeWeek": 1294,
     "timeMonth": 1302,
-    "timeYear": 881,
+    "timeYear": 885,
     "dailyMinutesDown": {}
   },
   {
@@ -41,12 +41,12 @@
     "icon": "https://favicons.githubusercontent.com/thakvika-api-dev.asurraa.com",
     "slug": "thakvika-api",
     "status": "down",
-    "uptime": "96.89%",
+    "uptime": "96.90%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 698,
+    "time": 696,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
@@ -70,7 +70,9 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-01-29": 968,
+      "2023-01-31": 135,
+      "2023-01-30": 1440,
+      "2023-01-29": 1440,
       "2023-01-28": 1440,
       "2023-01-27": 1440,
       "2023-01-26": 1440,
@@ -432,9 +434,7 @@
       "2022-02-04": 1440,
       "2022-02-03": 1440,
       "2022-02-02": 1440,
-      "2022-02-01": 1440,
-      "2022-01-31": 1440,
-      "2022-01-30": 1440
+      "2022-02-01": 1440
     }
   },
   {
@@ -467,10 +467,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1181,
-    "timeDay": 1411,
-    "timeWeek": 1209,
-    "timeMonth": 1239,
-    "timeYear": 1179,
+    "timeDay": 1177,
+    "timeWeek": 1192,
+    "timeMonth": 1237,
+    "timeYear": 1180,
     "dailyMinutesDown": {}
   },
   {
@@ -485,10 +485,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1168,
-    "timeDay": 1182,
-    "timeWeek": 1214,
+    "timeDay": 1239,
+    "timeWeek": 1175,
     "timeMonth": 1282,
-    "timeYear": 1168,
+    "timeYear": 1169,
     "dailyMinutesDown": {}
   },
   {
@@ -508,7 +508,9 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-01-29": 969,
+      "2023-01-31": 135,
+      "2023-01-30": 1440,
+      "2023-01-29": 1440,
       "2023-01-28": 1440,
       "2023-01-27": 1440,
       "2023-01-26": 1440,
@@ -870,9 +872,7 @@
       "2022-02-04": 1440,
       "2022-02-03": 1440,
       "2022-02-02": 1440,
-      "2022-02-01": 1440,
-      "2022-01-31": 1440,
-      "2022-01-30": 1440
+      "2022-02-01": 1440
     }
   },
   {
