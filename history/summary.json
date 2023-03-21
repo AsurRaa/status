@@ -22,17 +22,17 @@
     "url": "https://asurraa.com",
     "icon": "https://favicons.githubusercontent.com/asurraa.com",
     "slug": "asurraa-website",
-    "status": "up",
+    "status": "down",
     "uptime": "99.65%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1007,
-    "timeDay": 1704,
-    "timeWeek": 1354,
-    "timeMonth": 1314,
-    "timeYear": 1027,
+    "time": 1014,
+    "timeDay": 1217,
+    "timeWeek": 1346,
+    "timeMonth": 1313,
+    "timeYear": 1035,
     "dailyMinutesDown": {}
   },
   {
@@ -41,12 +41,12 @@
     "icon": "https://favicons.githubusercontent.com/thakvika-api-dev.asurraa.com",
     "slug": "thakvika-api",
     "status": "down",
-    "uptime": "97.08%",
+    "uptime": "97.09%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 697,
+    "time": 696,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
@@ -70,7 +70,9 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-03-19": 968,
+      "2023-03-21": 1175,
+      "2023-03-20": 1440,
+      "2023-03-19": 1440,
       "2023-03-18": 1440,
       "2023-03-17": 1440,
       "2023-03-16": 1440,
@@ -432,9 +434,7 @@
       "2022-03-25": 1440,
       "2022-03-24": 1440,
       "2022-03-23": 1440,
-      "2022-03-22": 1440,
-      "2022-03-21": 1440,
-      "2022-03-20": 1440
+      "2022-03-22": 1440
     }
   },
   {
@@ -467,9 +467,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1197,
-    "timeDay": 1117,
-    "timeWeek": 1115,
-    "timeMonth": 1179,
+    "timeDay": 1033,
+    "timeWeek": 1113,
+    "timeMonth": 1168,
     "timeYear": 1200,
     "dailyMinutesDown": {}
   },
@@ -484,11 +484,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1159,
-    "timeDay": 493,
-    "timeWeek": 489,
-    "timeMonth": 870,
-    "timeYear": 1161,
+    "time": 1155,
+    "timeDay": 444,
+    "timeWeek": 483,
+    "timeMonth": 812,
+    "timeYear": 1157,
     "dailyMinutesDown": {}
   },
   {
@@ -508,7 +508,9 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-03-19": 969,
+      "2023-03-21": 1177,
+      "2023-03-20": 1440,
+      "2023-03-19": 1440,
       "2023-03-18": 1440,
       "2023-03-17": 1440,
       "2023-03-16": 1440,
@@ -870,9 +872,7 @@
       "2022-03-25": 1440,
       "2022-03-24": 1440,
       "2022-03-23": 1440,
-      "2022-03-22": 1440,
-      "2022-03-21": 1440,
-      "2022-03-20": 1440
+      "2022-03-22": 1440
     }
   },
   {
